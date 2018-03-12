@@ -1,0 +1,22 @@
+[
+    {
+        "id": "example-site",
+        "text": "This is an example site of a non-existing business.",
+        "page": "https://github.com/mitko4771/example-site"
+    },
+    {
+        "id": "number-facts",
+        "text": "When you fill a number in the input field, an interesting fact about the diggit will appear",
+        "page": "https://github.com/mitko4771/number-facts"
+    },
+    {
+        "id": "filterable-list",
+        "text": "This is a filterable list, written by es6 standards.",
+        "page": "https://github.com/mitko4771/filterable-list"
+    },
+    {
+        "id": "basic-image-slider",
+        "text": "This is a basic image slider, written only with JavaScript (no jQuery). And I stick to es6 standarts",
+        "page": "https://github.com/mitko4771/basic-image-slider"
+    }
+]

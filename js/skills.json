@@ -1,0 +1,26 @@
+[
+    {
+        "id": "HTML",
+        "text": "HTML and CSS are building blocks in web design. I have good knowledge in these two technologies. They give us a perfect environment for developing unique websites."
+    },
+    {
+        "id": "CSS",
+        "text": "I'm used CSS animation, flexbox, grid layout and many more CSS tags on this website to improve my skills."
+    },
+    {
+        "id": "Less",
+        "text": "A pre-processor such as LESS gives us the ability to write more readable code and learning it is an important step in the development of each developer. I have a basic knowledge of LESS"
+    },
+    {
+        "id": "JavaScript",
+        "text": "If you are wondering what kind of foreign language to learn, learn javascript. Made to be a shack but became a skyscraper. I have advanced javascript skills."
+    },
+    {
+        "id": "jQuery",
+        "text": "Jquery is the library that will be used until Skynet conquer the world with its army of terminators. Every front-end developer must have some knowledge to jquery."
+    },
+    {
+        "id": "Git",
+        "text": "I have a basic knowledge of GIT and I still help with commands from the internet. This is due to lack of work experience but I think I will quickly learn it."
+    }
+]
